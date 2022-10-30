@@ -1,6 +1,5 @@
 In this connect to wallet series we are following the video https://www.youtube.com/watch?v=pdsYCkUWrgQ from Patrick Collins.
 
-```
 1. In this repo we are gonna do everything in HTML / JS.
 
 In the following connect to wallet series we are gonna do as following:
@@ -11,7 +10,6 @@ In the following connect to wallet series we are gonna do as following:
 4. NextJS & "react-moralis"
 5. NextJS & "web3Modal"
 6. NextJS & "useDapp"
-```
 
 Simple process to try this repo:
 
