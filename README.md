@@ -31,9 +31,7 @@ yarn hardhat node
 
 Install the vs code extension "Live Server", and click in "Go live" in the bottom right corner. Then:
 
-```
 Copy the rpc url provided in the hardhat node that you created, then go to your metamask, add a new network, and create a new network with that rpc url and chainid: 31337.
 Then pick one private key from the ones provided in hardhat node and import it to your metamask.
-```
 
 With all of this you should be able to test this repo! have fun :)
