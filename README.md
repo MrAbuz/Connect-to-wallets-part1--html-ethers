@@ -1,15 +1,15 @@
-In this connect to wallet series we are following the video https://www.youtube.com/watch?v=pdsYCkUWrgQ from Patrick Collins.
+In this "Connect to wallet series" we are following the video:
+https://www.youtube.com/watch?v=pdsYCkUWrgQ, from Patrick Collins.
 
-1. In this repo we are gonna do everything in HTML / JS.
+In this repo we are gonna do everything in HTML / JS.
+In the following connect to wallet series we are gonna try the following ways to connect to a wallet:
 
-In the following connect to wallet series we are gonna do as following:
-
-2. NextJS / React and "raw" ethers
+1. NextJS / React and "raw" ethers
    Then we're gonna get more advanced, and use some more advanced tooling for the web3 space (NextJS and a package):
-3. NextJS & "web3-react"
-4. NextJS & "react-moralis"
-5. NextJS & "web3Modal"
-6. NextJS & "useDapp"
+2. NextJS & "web3-react"
+3. NextJS & "react-moralis"
+4. NextJS & "web3Modal"
+5. NextJS & "useDapp"
 
 Simple process to try this repo:
 
