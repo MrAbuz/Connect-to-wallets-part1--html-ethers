@@ -17,6 +17,7 @@ A quick summary:
 - In "3. NextJS & "web3-react" is used by protocols like uniswap/aave. Here we add functionality that allows us to make our aplication remember the state of whether or not we are connected to a wallet, across the different pages. Plus it adds some functionality to make it easier to connect, connect to the provider and know if we're connected to the provider or not.
 - "4. NextJS & "react-moralis" has pretty much the same functionalities as "web3-react" but can be even simpler, given that its easier to set up the connect() and to perform calls to functions.
 - "5. NextJS & "web3Modal" adds an easy integration with multiple wallets by having that frontend ui to choose the wallets automatically. The rest of the implementation is close to the simple nextjs/react/ethers implementation in 2."
+- "6. NextJS & "useDapp" is similar to all of those with some syntax differences, but really similar features. we can check the code at "https://github.com/PatrickAlphaC/nextjs-usedapp-metamask-connect/tree/f8858d687125f0d8c41a6ad0116901d94b9feb47"
 
 Patrick's advice -> Patrick gave us two really good repos that by his words are insane to study and to reverse engineer in order to learn react things and to apply them into our projects, which can be good for me in the future.
 
