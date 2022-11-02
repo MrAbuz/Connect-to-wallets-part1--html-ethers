@@ -14,7 +14,7 @@ In the next repos we'll be aplying the following ways to connect to a wallet:
 A quick summary:
 
 - The "1. HTML / Ethers" one is the raw version and in "2. NextJS / React and "raw" ethers" we add the nextjs and react features.
-- In "3. NextJS & "web3-react" we add functionality that allows us to make our aplication remember the state of whether or not we are connected to a wallet, across the different pages. Plus it adds some functionality to make it easier to connect, connect to the provider and know if we're connected to the provider or not.
+- In "3. NextJS & "web3-react" is used by protocols like uniswap/aave. Here we add functionality that allows us to make our aplication remember the state of whether or not we are connected to a wallet, across the different pages. Plus it adds some functionality to make it easier to connect, connect to the provider and know if we're connected to the provider or not.
 - "4. NextJS & "react-moralis" has pretty much the same functionalities as "web3-react" but can be even simpler, given that its easier to set up the connect() and to perform calls to functions.
 - "5. NextJS & "web3Modal" adds an easy integration with multiple wallets by having that frontend ui to choose the wallets automatically. The rest of the implementation is close to the simple nextjs/react/ethers implementation in 2."
 
